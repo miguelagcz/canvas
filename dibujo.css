@@ -1,0 +1,20 @@
+.onboarding-wrapper{
+    background-color:#ddd;
+    max-width: 300px;
+    height: 360px;
+}
+
+.online{
+position: relative;
+left: 5px;
+max-width: 300px;
+max-height: 300px;
+}
+.p{
+    background-color:white;
+}
+
+.text{
+    position: relative;
+    left: 507px;
+}
